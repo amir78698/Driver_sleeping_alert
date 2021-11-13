@@ -11,7 +11,7 @@ we determine whether the eyes are open or they are closed.</br></br>
 <ul><li>As you can see the<b> above screenshot</b> where the landmarks aredetected using the detector.
 <li>Now we are taking the ratio which is described as <i>'Sum of distances of vertical landmarks divided by twice the distance between horizontal landmarks'</i>.
 <li>Now this ratio is totally dependent on your system which you may configure accordingly for the thresholds of sleeping, drowsy, active.</ul>
-<p><img src="" align="center" height="350">
+<p><img src="https://github.com/amir78698/Driver_sleeping_alert/blob/main/Screenshot%20from%202021-11-13%2021-14-20.png" align="center" height="350">
 <img src="" align="center" height="350">
 <img src="" align="center" height="350">
 
